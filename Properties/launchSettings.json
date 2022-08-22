@@ -1,0 +1,32 @@
+{
+  "profiles": {
+    "ControleDeContatos": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Nova pasta (3)\\ControleDeContatos",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "dotnetRunMessages": true,
+      "applicationUrl": "http://localhost:5079"
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "workingDirectory": "C:\\Users\\guilh\\OneDrive\\Área de Trabalho\\Nova pasta (3)\\ControleDeContatos",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "nativeDebugging": true,
+      "sqlDebugging": true
+    }
+  },
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:18018",
+      "sslPort": 0
+    }
+  }
+}
